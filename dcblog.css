@@ -1,0 +1,70 @@
+.logo { 
+    font-size: 45px;
+    
+}
+h1 {
+    font-family: sans-serif;
+   font-weight: lighter;
+}
+
+body {
+    background-color: #F4F4F4;
+    font-family: sans-serif;
+    font-weight: lighter;
+    
+    
+}
+
+.links {
+    color: grey;
+    font-size: 20px;
+    display: inline-block;
+    float: right;
+    
+}
+
+.links span {
+    margin: 20px;
+
+}
+
+main {
+
+    clear: both;
+    padding-top: 20px;
+    text-align: center
+}
+
+.date {
+ text-transform: uppercase;
+}
+
+.follow {
+    background-color: #4993B6;
+    width: 200px;
+    height: 20px;
+    border: 6px solid #4993B6;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+   
+}
+.paragraph {
+    font-size: 15px;
+    text-align: left;
+    margin-left: 200px;
+    margin-right: 80px
+    
+   
+   
+
+}
+
+.bottom {
+    color: grey;
+    font-size: 25px;
+    display: inline-block;
+    float: left;
+    
+
+}

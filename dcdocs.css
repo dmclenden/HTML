@@ -1,0 +1,69 @@
+body {
+    padding-left: 230px;
+    background-color: rgb(255, 255, 255);
+    font-family: sans-serif;
+    font-weight: lighter;
+  }
+  
+  .left {
+    position: fixed;
+    height: 100%;
+    left: 0px;
+    top: 0px;
+    width: 200px;
+    background-color: rgb(80, 78, 78);
+    
+    box-shadow: 5px 5px 5px grey;
+    padding: 10px;
+    color: rgb(243, 242, 242);
+    font-size: 20px;
+  }
+  
+  .right {
+    width: 100%;
+    height: 10000px;
+   
+  }
+
+.bar {
+    color: rgb(160, 160, 160);
+}
+
+.header {
+    font-size: 40px;
+    display: inline-block ;
+}
+
+.introsize{
+    font-size: 10px;
+
+}
+
+.box {
+    background-color: rgba(223, 220, 215, 0.699);
+    width: 1000px;
+    height: 100px;
+    border-left: 5px solid 	#C3C3C1;
+    margin-left: auto;
+    margin-right: auto;
+    color: grey;
+}
+
+.motivationsize {
+    font-size: 10px;
+}
+
+.campussize {
+    font-size: 10px;
+}
+
+input.searchbar {
+    background-color:rgb(80, 78, 78);
+    
+    color: white;
+   
+}
+
+.quote {
+    margin: 25px 50px 75px 100px; 
+}

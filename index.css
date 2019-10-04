@@ -1,0 +1,40 @@
+
+body {
+    background-image: url("stripes.jpg")
+
+}
+
+
+
+h1 {
+    font-size: 40px;
+    color: purple
+    border: 1px solid black;
+    
+}
+
+.myparagraph {
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    height:900px;
+    width:600px;
+    border:10px dashed #000000;
+    background-color: #ffffff;
+    overflow: scroll;
+   
+    
+}
+
+
+h3 {
+    color: #C97C5D
+
+}
+
+.myheader {
+    height:400px;
+    width:600px;
+    border:10px dashed #000000;
+    background-color: rgba(255, 255, 255, 0.7);
+}
